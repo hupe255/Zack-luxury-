@@ -8,8 +8,7 @@
     "dev": "nodemon server.js"
   },
   "author": "Zack",
-  "license": "MIT
-  ",
+  "license": "MIT",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.4.5",
