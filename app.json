@@ -1,0 +1,8 @@
+{
+  "firstname": "John",
+  "middlename": "Michael",
+  "email": "john@example.com",
+  "country": "USA",
+  "zipcode": "10001",
+  "address": "123 Main Street"
+}
